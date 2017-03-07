@@ -1,0 +1,14 @@
+{
+  "name": "speech-demo",
+  "version": "1.0.0",
+  "description": "A demo of SSML",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "alexa": {
+    "applicationId": null
+  },
+  "dependencies": {
+    "alexa-app": "^3.1.0"
+  }
+}

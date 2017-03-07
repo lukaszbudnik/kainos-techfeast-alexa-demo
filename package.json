@@ -1,0 +1,17 @@
+{
+  "name": "techfeast-presentation-demo",
+  "version": "1.0.0",
+  "description": "Sample Alexa Skills written for Kainos Tech Feast Presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-app-server": "^3.0.0"
+  },
+  "engines": {
+    "node": "6.9.4"
+  }
+}

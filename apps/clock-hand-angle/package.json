@@ -1,0 +1,14 @@
+{
+  "name": "clock-hand-angle",
+  "version": "1.0.0",
+  "description": "Sample application to compute angle between clock's hands",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "alexa": {
+    "applicationId": null
+  },
+  "dependencies": {
+    "alexa-app": "^3.1.0"
+  }
+}
